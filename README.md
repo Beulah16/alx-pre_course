@@ -1,3 +1,3 @@
-My first readme, so cool!
+My first readme
 
 I love ALX
